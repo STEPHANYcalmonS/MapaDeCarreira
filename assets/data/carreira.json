@@ -1,0 +1,126 @@
+{
+  "seo": {
+    "title": "Stephany Calmon | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Stephany, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Stephany Calmon",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Stephany Calmon",
+    "headline": "Estudante de Desenvolvimento de Sistemas",
+    "photo": "assets/images/minhafotoperfil.jpg",
+    "photoAlt": "Foto profissional de Stephany Calmon",
+    "summary": "Estudante de Desenvolvimento de Sistemas, adquirindo experiência em desenvolvimento web, mobile e desktop por meio de projetos acadêmicos, possuo interesse em criar soluções digitais que transformem ideias em aplicações práticas e agora organizo meu mapa de carreira com foco em aprendizagem contínua, colaboração e impacto profissional.",
+    "cvUrl": "#"
+  },
+  "contacts": [
+    {
+      "label": "stephanycalmon4@gmail.com",
+      "url": "mailto:stephanycalmon4@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/stephanycalmon",
+      "url": "https://www.linkedin.com/in/stephanycalmon"
+    },
+    {
+      "label": "github.com/STEPHANYcalmonS",
+      "url": "https://github.com/STEPHANYcalmonS"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Estágio em Desenvolvimento de Software",
+      "description": "Iniciar a atuação profissional na área de tecnologia, desenvolvendo habilidades práticas em programação, compreensão de sistemas e colaboração em equipe.",
+      "softSkills": [
+        "Vontade de aprender e evoluir constantemente.",
+        "Comunicação para tirar dúvidas e receber feedback.",
+        "Organização nos estudos e tarefas.",
+        "Curiosidade para entender como sistemas funcionam."
+      ],
+      "roadmap": [
+        "HTML e CSS",
+        "JavaScript",
+        "Git e GitHub",
+        "Lógica de programação",
+        "Introdução a APIs",
+        "Noções de banco de dados"
+
+      ]
+    },
+    {
+      "title": "Desenvolvedora de Software Júnior",
+      "description": "Consolidar conhecimentos técnicos, desenvolver funcionalidades com mais autonomia e iniciar a compreensão mais ampla dos sistemas.",
+      "softSkills": [
+        "Responsabilidade com tarefas e prazos.",
+        "Colaboração em equipe.",
+        "Pensamento crítico inicial.",
+        "Organização de código e projetos."
+
+      ],
+      "roadmap": [
+        "JavaScript avançado",
+        "Frameworks (React)",
+        "APIs REST",
+        "Banco de dados",
+        "Boas práticas de código",
+        "Teste de funcionalidades"
+
+      ]
+    },
+    {
+      "title": "Analista de Sistemas",
+      "description": "Desenvolver a capacidade de compreender problemas e necessidades reais, estruturando soluções tecnológicas de forma organizada. Atuar na análise de sistemas, levantando requisitos, documentando funcionalidades e auxiliando na definição de como as aplicações devem ser construídas e evoluídas.",
+      "softSkills": [
+        "Comunicação clara para entender e traduzir necessidades em soluções.",
+        "Organização para estruturar informações e processos.",
+        "Pensamento crítico para identificar problemas e oportunidades de melhoria.",
+        "Capacidade de trabalhar em equipe com desenvolvedores e outras áreas."
+
+      ],
+      "roadmap": [
+        "Levantamento de requisitos",
+        "Modelagem de sistemas",
+        "Documentação técnica e funcional",
+        "Fluxos de processos",
+        "Noções de UX (experiência do usuário)",
+        "Integração entre sistemas (APIs)",
+        "Compreensão de regras de negócio"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 80
+        },
+        {
+          "name": "React",
+          "level": 40
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 50
+        },
+        {
+          "name": "SQL",
+          "level": 60
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Versionamento de código com Git e GitHub",
+    "Documentação de sistemas",
+    "Trabalho em equipe",
+    "Desenvolvimento básico com .NET MAUI"
+  ]
+ 
+}
