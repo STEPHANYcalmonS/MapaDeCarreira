@@ -11,7 +11,7 @@
     "photo": "assets/images/minhafotoperfil.jpg",
     "photoAlt": "Foto profissional de Stephany Calmon",
     "summary": "Estudante de Desenvolvimento de Sistemas, adquirindo experiência em desenvolvimento web, mobile e desktop por meio de projetos acadêmicos, possuo interesse em criar soluções digitais que transformem ideias em aplicações práticas e agora organizo meu mapa de carreira com foco em aprendizagem contínua, colaboração e impacto profissional.",
-    "cvUrl": "./assets/data/curriculo-stephany.pdf"
+    "cvUrl": "./assets/data/Curriculo-Stephany.pdf"
   },
   "contacts": [
     {
@@ -28,25 +28,7 @@
     }
   ],
   "careerSteps": [
-    {
-      "title": "Estágio em Desenvolvimento de Software",
-      "description": "Iniciar a atuação profissional na área de tecnologia, desenvolvendo habilidades práticas em programação, compreensão de sistemas e colaboração em equipe.",
-      "softSkills": [
-        "Vontade de aprender e evoluir constantemente.",
-        "Comunicação para tirar dúvidas e receber feedback.",
-        "Organização nos estudos e tarefas.",
-        "Curiosidade para entender como sistemas funcionam."
-      ],
-      "roadmap": [
-        "HTML e CSS",
-        "JavaScript",
-        "Git e GitHub",
-        "Lógica de programação",
-        "Introdução a APIs",
-        "Noções de banco de dados"
 
-      ]
-    },
     {
       "title": "Desenvolvedora de Software Júnior",
       "description": "Consolidar conhecimentos técnicos, desenvolver funcionalidades com mais autonomia e iniciar a compreensão mais ampla dos sistemas.",
@@ -86,8 +68,30 @@
         "Integração entre sistemas (APIs)",
         "Compreensão de regras de negócio"
       ]
-    }
+    }, 
+    {
+      "title": "Analista de Negócios",
+      "description": "Atuar como elo entre as áreas de negócio e tecnologia, identificando oportunidades de melhoria, analisando processos e transformando necessidades organizacionais em soluções que gerem valor para a empresa e seus usuários.",
+      "softSkills": [
+      "Comunicação estratégica.",
+      "Pensamento analítico e visão de negócio.",
+      "Negociação e gestão de expectativas.",
+      "Capacidade de tomada de decisão baseada em dados.",
+      "Facilidade para trabalhar com diferentes stakeholders."
   ],
+      "roadmap": [
+      "Análise de negócios",
+      "Gestão de processos",
+      "Levantamento e priorização de requisitos",
+      "Modelagem de negócios",
+      "Indicadores e métricas (KPIs)",
+      "Análise de dados",
+      "Product Discovery",
+      "Gestão de stakeholders",
+      "Metodologias Ágeis"
+  ]
+}
+],
   "skillGroups": [
     {
       "title": "Frontend",
@@ -117,10 +121,10 @@
     }
   ],
   "otherSkills": [
-    "Versionamento de código com Git e GitHub",
-    "Documentação de sistemas",
+    "Escuta ativa",
     "Trabalho em equipe",
-    "Desenvolvimento básico com .NET MAUI"
+    "Documentação de sistemas",
+    "Versionamento de código com Git e GitHub"
   ]
  
 }
